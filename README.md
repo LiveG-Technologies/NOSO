@@ -1,6 +1,6 @@
-# Untangled 2017
+# NOSO™
 
-A top down game for Untangled 2017.
+An adventure game.
 
 ## Installation
 
